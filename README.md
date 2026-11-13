@@ -1,10 +1,10 @@
 # IoT + Flutter Projects 💻
 
+> **Status: planned.** This repository currently holds the project plan only. No application code has been published here yet, so the features below describe what is intended, not what exists.
+
 **Practical Arduino/ESP32 + Flutter IoT projects** combining electrical engineering knowledge with modern mobile app development.
 
 Real-world monitoring, control, and data logging systems built for learning and practical use.
-
-![IoT Flutter Preview](https://via.placeholder.com/800x450?text=Add+your+project+screenshots+here)
 
 ## Why These Projects?
 
@@ -14,7 +14,7 @@ Many IoT tutorials are either too hardware-focused or too app-focused. This coll
 - Useful for students, hobbyists, and real small projects
 - Ties directly to EEE concepts (sensors, data acquisition, control systems)
 
-## Featured Projects (Examples)
+## Planned projects
 
 - Smart Environment Monitor (Temperature, Humidity, Air Quality)
 - IoT Data Logger with Firebase sync
@@ -22,13 +22,13 @@ Many IoT tutorials are either too hardware-focused or too app-focused. This coll
 - Sensor Data Visualization App
 - Home Automation Prototypes
 
-## Key Features Across Projects
+## Planned features
 
-- ✅ Flutter mobile app with real-time data
-- ✅ ESP32 / Arduino code with proper documentation
-- ✅ Firebase or local backend integration
-- ✅ Clean UI with charts and controls
-- ✅ Well-commented code + wiring diagrams
+- [ ] Flutter mobile app with real-time data
+- [ ] ESP32 / Arduino code with proper documentation
+- [ ] Firebase or local backend integration
+- [ ] Clean UI with charts and controls
+- [ ] Well-commented code + wiring diagrams
 
 ## Tech Stack
 
@@ -38,7 +38,7 @@ Many IoT tutorials are either too hardware-focused or too app-focused. This coll
 - Sensors (DHT, MQ, etc.)
 - Blynk or custom protocols
 
-## Getting Started
+## Getting Started (once code is published)
 
 Each project folder contains:
 - `hardware/` → Arduino/ESP32 code + wiring
@@ -70,9 +70,6 @@ flutter run
 
 [![Sponsor](https://img.shields.io/badge/Sponsor-GitHub%20Sponsors-blue?logo=github&style=for-the-badge)](https://github.com/sponsors/sachin1024-92)
 
-Alternative support:
-- [Buy Me a Coffee](https://www.buymeacoffee.com/)
-- [Ko-fi](https://ko-fi.com/)
 
 ## License
 MIT
